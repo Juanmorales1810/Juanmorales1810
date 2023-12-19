@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador Front-end y Diseñador Gráfico<br>con experiencia en HTML, CSS, JavaScript y diseño visual.<br>Actualmente estudiando React💻
+Desarrollador Front-end y Diseñador Gráfico<br>con experiencia en HTML, CSS, JavaScript y diseño visual.<br>Actualmente aprendiendo Next.js💻
 
 
 ## 🌐 Socials:
