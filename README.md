@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🖥️ About Me:
 Desarrollador Front-end y Diseñador Gráfico<br>con experiencia en HTML, CSS, JavaScript y diseño visual.<br>Actualmente aprendiendo Next.js💻
 
 
