@@ -1,5 +1,13 @@
 # 🖥️ About Me:
-Desarrollador Front-end y Diseñador Gráfico<br>con experiencia en HTML, CSS, JavaScript y diseño visual.💻
+# **Desarrollador Front-end y Diseñador Gráfico**
+
+Apasionado por crear experiencias digitales atractivas y funcionales, con una sólida experiencia en desarrollo web y diseño visual. Poseo habilidades avanzadas en **HTML**, **CSS** y **JavaScript**, que utilizo para construir interfaces modernas, responsivas y accesibles.
+
+Como diseñador gráfico, destaco en la creación de soluciones visuales innovadoras que comunican mensajes claros y refuerzan la identidad de marca. Mi enfoque combina la estética con la funcionalidad, asegurando que cada proyecto cumpla con los más altos estándares de usabilidad y diseño.
+
+Además, tengo experiencia trabajando con herramientas y tecnologías modernas como **React**, **Next.js**, y frameworks CSS como **TailwindCSS** para optimizar el desarrollo y la experiencia de usuario. Mi conocimiento en diseño gráfico incluye el dominio de **Adobe Photoshop**, **Illustrator** y **Blender**, lo que me permite integrar diseño y desarrollo de manera fluida.
+
+Me motiva trabajar en equipo, enfrentar desafíos creativos y contribuir a proyectos que impacten positivamente a los usuarios. Estoy comprometido con el aprendizaje continuo para mantenerme al día en un entorno tecnológico en constante evolución.
 
 
 ## 🌐 Socials:
