@@ -1,4 +1,4 @@
-# 🖥️ About Me:
+# 🖥️ Sobre mí:
 # **Desarrollador Front-end y Diseñador Gráfico**
 
 Apasionado por crear experiencias digitales atractivas y funcionales, con una sólida experiencia en desarrollo web y diseño visual. Poseo habilidades avanzadas en **HTML**, **CSS** y **JavaScript**, que utilizo para construir interfaces modernas, responsivas y accesibles.
