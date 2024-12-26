@@ -10,7 +10,7 @@ Además, tengo experiencia trabajando con herramientas y tecnologías modernas c
 Me motiva trabajar en equipo, enfrentar desafíos creativos y contribuir a proyectos que impacten positivamente a los usuarios. Estoy comprometido con el aprendizaje continuo para mantenerme al día en un entorno tecnológico en constante evolución.
 
 
-## 🌐 Socials:
+## 🌐 Mis redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elchiche0_o/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-exequiel-morales/) 
 
 # 💻 Tech Stack:
