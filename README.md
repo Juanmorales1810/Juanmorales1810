@@ -37,14 +37,14 @@ Me motiva trabajar en equipo, enfrentar desafíos creativos y contribuir a proye
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Juanmorales1810&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Juanmorales1810&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmorales1810&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Juanmorales1810&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Juanmorales1810&locale=es&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="310" alt="streak graph"  />
+</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanmorales1810&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanmorales1810&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanmorales1810&radius=16&theme=synthwave-84&area=true&order=5&bg_color=151515&color=dadada&line=dadada&point=6de287&area_color=dadada&hide_title=false" height="276" alt="activity-graph graph"  />
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="qoute ramdom"/>
+</div>
